@@ -6,7 +6,7 @@
 
 ### Glad to see you here!
 
-I'm a Highschool student, football player, gamer, fiveM roleplayer, Fast learner 
+I'm a Highschool student, football player, gamer, fiveM roleplayer, Fast learner, FiveM Developer,
 
 
 [![DOD Badge](https://img.shields.io/badge/TEAM-DEVING%20ON%20DISCORD-17a6ec?style=for-the-badge)](https://github.com/devingondiscord)
